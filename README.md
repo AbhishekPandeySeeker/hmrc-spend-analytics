@@ -18,7 +18,7 @@ End-to-end procurement spend analysis project built on real UK government spendi
 - `hmrc_spend_analysis.sql` — SQL scripts for table creation, data cleaning, and analysis queries
 
 ## Dashboard
-Power BI dashboard published on Novypro — [Link coming soon]
+![Dashboard Preview](Spend_Analytics_Dashboard.jpeg)
 
 ## Author
 Abhishek Pandey | MBA @ VGSOM IIT Kharagpur | [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-727104174/)
